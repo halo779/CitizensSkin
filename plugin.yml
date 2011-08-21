@@ -1,0 +1,6 @@
+name: CitizensSkin
+version: 0.1
+author: ethereal
+main: me.ethereal.CitizensSkin.CitzensSkin
+depend: [Citizens, Spout]
+soft-depend: Spout
